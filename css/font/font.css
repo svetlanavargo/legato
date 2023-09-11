@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "BasisGrotesquePro";
+    src: url("BasisGrotesquePro-Light.ttf");
+    font-weight: 100;
+    font-style: auto;
+    font-display: swap;
+}
+@font-face {
+    font-family: "BasisGrotesquePro";
+    src: url("BasisGrotesquePro-Medium.ttf");
+    font-weight: normal;
+    font-style: auto;
+    font-display: swap;
+}
